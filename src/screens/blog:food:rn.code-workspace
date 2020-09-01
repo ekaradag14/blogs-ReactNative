@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "blog",
+      "path": "../.."
+    },
+    {
+      "name": "food",
+      "path": "../../../food"
+    },
+    {
+      "name": "rn-starter",
+      "path": "../../../rn-starter"
+    },
+    {
+      "path": "../../../jsonserver"
+    }
+  ]
+}
